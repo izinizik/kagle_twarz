@@ -1,5 +1,3 @@
-# Eloszka
+# Yep
 
-Hejka ho.
 
-No hejka.
